@@ -1,3 +1,3 @@
 #!/bin/sh
 
-echo bob
+echo hello
